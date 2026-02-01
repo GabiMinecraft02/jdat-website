@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+    margin: 40px;
+}
+
+h1, h2 {
+    color: #4da6ff;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+pre {
+    background-color: #1e1e1e;
+    padding: 15px;
+    overflow-x: auto;
+}
+
+code {
+    color: #00ffcc;
+}
+
+a {
+    color: #4da6ff;
+    text-decoration: none;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+footer {
+    margin-top: 60px;
+}
