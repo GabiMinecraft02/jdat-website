@@ -1,9 +1,4 @@
-# robots.txt for JDAT website
-
 User-agent: *
-Disallow: /files/
-Disallow: /jdat_setup.bat
-Disallow: /download/
 Allow: /
 
 Sitemap: https://jdat.onrender.com/sitemap.xml
